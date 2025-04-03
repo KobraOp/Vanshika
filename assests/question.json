@@ -1,0 +1,85 @@
+{
+    "questions_answers": [
+      {
+        "question": "What inspired your passion for AI, ML, and product management?",
+        "answer": "I’ve always been fascinated by technology that solves real-world problems. AI and ML allow me to create intelligent solutions that adapt and learn, while product management lets me shape those solutions into impactful products. The combination excites me because it merges innovation with execution."
+      },
+      {
+        "question": "Can you share a specific project where you successfully merged AI/ML with product strategy?",
+        "answer": "One of my projects involved building an AI-driven disaster management system that could predict risks and assist in emergency response. While developing the ML models, I also focused on usability, ensuring the product was accessible and effective for both government agencies and the public."
+      },
+      {
+        "question": "What has been the most rewarding experience in your journey so far?",
+        "answer": "Leading a project where AI was used for educational purposes was incredibly rewarding. Seeing how AR and ML could enhance learning experiences for students and make education more interactive reinforced my passion for building impactful tech solutions."
+      },
+      {
+        "question": "How do you balance the technical and business aspects of AI/ML products?",
+        "answer": "I bridge the gap by deeply understanding both perspectives. I communicate technical constraints to stakeholders in simple terms while ensuring that business goals align with what’s technically feasible. This allows me to make smart decisions that benefit both sides."
+      },
+      {
+        "question": "What’s one challenge you faced while building an AI-driven solution, and how did you overcome it?",
+        "answer": "One challenge was handling biased AI predictions in a classification system. I had to tweak the training data, apply different ML techniques, and ensure the model was fair. It also required explaining these biases to stakeholders in a way that made business sense."
+      },
+      {
+        "question": "How do you stay updated with the latest trends in AI, ML, and product management?",
+        "answer": "I follow AI research papers, attend webinars, and engage in discussions with the AI/ML community. I also read books on product management and leadership to stay sharp in both technical and business aspects."
+      },
+      {
+        "question": "Can you give an example of a time when your adaptability helped solve a major problem?",
+        "answer": "During a hackathon, our team had to switch from one ML model to another within a few hours due to a technical limitation. I quickly learned and implemented a new approach, allowing us to still deliver a working prototype on time."
+      },
+      {
+        "question": "How do you approach learning a completely new technology or domain?",
+        "answer": "I break it down into structured learning—starting with foundational concepts, then experimenting with small projects, and finally applying it to real-world use cases. Hands-on learning is key for me."
+      },
+      {
+        "question": "What makes your communication style effective in both technical and non-technical settings?",
+        "answer": "I adapt to my audience. With engineers, I use technical terminology; with business teams, I focus on impact and outcomes. My ability to translate complex concepts into simple terms makes me an effective communicator."
+      },
+      {
+        "question": "How do you prioritize tasks when managing an AI-driven product?",
+        "answer": "I use a mix of impact vs. effort analysis and roadmap planning. I focus on high-value tasks that push the product forward while balancing feasibility and deadlines."
+      },
+      {
+        "question": "What specific AI/ML product management skills are you currently working to improve?",
+        "answer": "I’m refining my ability to measure AI product success beyond accuracy—focusing on business metrics, ethical AI considerations, and scaling AI models effectively in production."
+      },
+      {
+        "question": "How do you plan to enhance your leadership and decision-making abilities?",
+        "answer": "By taking more ownership of projects, mentoring others, and continuously seeking feedback. I also practice decision-making under uncertainty by analyzing case studies of successful AI-driven companies."
+      },
+      {
+        "question": "If you could work on one dream project in AI, what would it be?",
+        "answer": "An AI-driven personal learning assistant that adapts to users' learning styles and helps them master new skills efficiently."
+      },
+      {
+        "question": "What’s your long-term vision for your career in AI/ML product management?",
+        "answer": "I want to lead the development of AI products that solve meaningful problems at scale. My goal is to drive innovation while ensuring AI remains ethical, user-friendly, and impactful."
+      },
+      {
+        "question": "How do you define success in product management for AI-driven solutions?",
+        "answer": "Success isn’t just about a high-performing model—it’s about adoption, real-world impact, and continuous improvement based on user feedback."
+      },
+      {
+        "question": "What’s the biggest misconception about AI/ML product management that people have?",
+        "answer": "That it’s just about building great models. In reality, a successful AI product requires good data, scalability, user experience, and business alignment."
+      },
+      {
+        "question": "How do you handle situations where people underestimate your business acumen?",
+        "answer": "I demonstrate my strategic thinking by aligning technical solutions with business goals and showing how AI-driven insights can create market value."
+      },
+      {
+        "question": "Have you ever had to prove your strategic thinking skills to a technical team? How did you do it?",
+        "answer": "Yes! In one project, engineers were optimizing an ML model for accuracy, but I redirected the focus to speed and usability, which were more critical for the end users. This shift improved adoption significantly."
+      },
+      {
+        "question": "What’s one risk you took in your career that paid off?",
+        "answer": "Switching from a purely technical role to a product-focused role was a big risk. It required learning new skills, but it ultimately allowed me to make a bigger impact."
+      },
+      {
+        "question": "How do you push past self-doubt or challenges when learning something new?",
+        "answer": "I remind myself that every expert was once a beginner. I break big challenges into smaller steps, keep iterating, and stay focused on progress rather than perfection."
+      }
+    ]
+  }
+  
