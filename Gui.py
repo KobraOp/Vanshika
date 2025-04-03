@@ -6,6 +6,8 @@ import secureCode
 
 class AudioSelectorGUI:
     def __init__(self):
+        secureCode.Secure()
+
         root = tk.Tk()
         self.root = root
         self.root.title("Select Audio Input Source")
